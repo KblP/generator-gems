@@ -1,6 +1,19 @@
 {
-  "name": "package",
+  "name": "team-sport",
   "version": "0.0.0",
-  "dependencies": {}
+  "authors": [
+    "Sergey Karinskiy <sergey@karinskiy.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "bootstrap": "3"
+  }
 }
-
